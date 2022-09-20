@@ -6,12 +6,4 @@
 ![Image alt](https://github.com/distant007/js-postman/raw/main/image_2022-09-20_14-45-06.png)
 Далее логинился, также использая документацию для указания пути и body. В итоге получил положительный ответ. 
 ![Image alt](https://github.com/distant007/js-postman/raw/main/image_2022-09-20_14-45-37.png)
-Далее для моего получения моего профиля использовал раздел Authorization, куда прописывал токен профиля,в ответе получил данные:<br>
->{<br>
->>>>"profile": {<br>
->>>>>>> "username": "gibirbeg",<br>
->>>>>>> "image": "https://static.productionready.io/images/smiley-cyrus.jpg",<br>
->>>>>>> "following": false<br>
->>>>}<br>
->}
-
+Далее для моего получения моего профиля использовал раздел Authorization, куда прописывал токен профиля,в ответе получил данные. 
