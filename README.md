@@ -8,3 +8,5 @@
 }
 
 ![Image alt](https://github.com/distant007/js-postman/raw/main/image_2022-09-20_14-44-22.png)
+![Image alt](https://github.com/distant007/js-postman/raw/main/image_2022-09-20_14-45-06.png)
+![Image alt](https://github.com/distant007/js-postman/raw/main/image_2022-09-20_14-45-37.png)
